@@ -1,0 +1,13 @@
+{
+  "name": "paypay-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kyoncy <kyota.n.2014@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@paypayopa/paypayopa-sdk-node": "^0.9.0",
+    "dotenv": "^8.2.0",
+    "uuid": "^8.3.1"
+  }
+}
